@@ -20,7 +20,7 @@ https://www.topopt.mek.dtu.dk/Apps-and-software/Topology-optimization-codes-writ
 2. 目的関数の計算
 3. 目的関数の感度分析
 4. 設計変数の更新
-6. 2~4の操作を収束するまで繰り返す．
+5. 2~4の操作を収束するまで繰り返す．
 
 ## 環境
 - ファイル構造
