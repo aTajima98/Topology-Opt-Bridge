@@ -39,7 +39,8 @@ https://www.topopt.mek.dtu.dk/Apps-and-software/Topology-optimization-codes-writ
     - situation2のトポロジー最適化
   - bridge_3.py
     - situation3のトポロジー最適化
-  
+![橋設計](img/bridge_situ.jpg)
+
 - 実行環境
   - Python 3.8
   - numpy
