@@ -33,8 +33,12 @@ https://www.topopt.mek.dtu.dk/Apps-and-software/Topology-optimization-codes-writ
 
 ## 環境
 - ファイル構造
-  - bridge_sample.py
-    - プログラムが動くか確認．
+  - bridge_1.py
+    - situation1のトポロジー最適化
+  - bridge_2.py
+    - situation2のトポロジー最適化
+  - bridge_3.py
+    - situation3のトポロジー最適化
   
 - 実行環境
   - Python 3.8
