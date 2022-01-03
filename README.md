@@ -42,8 +42,9 @@ https://www.topopt.mek.dtu.dk/Apps-and-software/Topology-optimization-codes-writ
     
 ![橋設計](img/bridge_situ.jpg)
 
-  - bicycle.py
-     - 条件の与え方次第で，橋以外にも適応できる
+ - その他
+    - bicycle.py
+      - 条件の与え方次第で，橋以外にも適応できる
 ![自転車](img/bicycle.jpg)
 
 - 実行環境
