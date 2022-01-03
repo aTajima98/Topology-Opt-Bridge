@@ -15,6 +15,7 @@ https://www.topopt.mek.dtu.dk/Apps-and-software/Topology-optimization-codes-writ
 ## トポロジー最適化
 トポロジー最適化の目的は，歪みエネルギーを最小限に抑えて，制約(構造として必要不可欠なもの）を満たすことです．
  問題の定式化は以下のようになります．
+ 
  ![目的関数](img/topology_formulation.jpg)
  トポロジー最適化で使用する材料モデルはSIMP(Solid Isotropic Material with Penalization)法です．
  これは，材料を正方形の集合体で表し，各正方形には材料が必要(黒=1)～除去(白=0)の範囲の密度を持ちます．
