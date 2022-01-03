@@ -14,6 +14,7 @@ https://www.topopt.mek.dtu.dk/Apps-and-software/Topology-optimization-codes-writ
 
 ## トポロジー最適化
 トポロジー最適化の目的は，歪みエネルギーを最小限に抑えて，制約(構造として必要不可欠なもの）を満たすことです．
+ 
  問題の定式化は以下のようになります．
  
 ![目的関数](img/topology_formulation.jpg)
