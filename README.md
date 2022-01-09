@@ -32,7 +32,7 @@ https://www.topopt.mek.dtu.dk/Apps-and-software/Topology-optimization-codes-writ
 
 
 ## 環境
-- ファイル構造
+- ファイル構造(src/)
   - bridge_1.py
     - situation1のトポロジー最適化
   - bridge_2.py
@@ -42,7 +42,7 @@ https://www.topopt.mek.dtu.dk/Apps-and-software/Topology-optimization-codes-writ
     
 ![橋設計](img/bridge_situ.jpg)
 
- - その他
+ - その他(src/)
     - bicycle.py
       - 条件の与え方次第で，橋以外にも適応できる
 ![自転車](img/bicycle.jpg)
@@ -52,6 +52,10 @@ https://www.topopt.mek.dtu.dk/Apps-and-software/Topology-optimization-codes-writ
   - numpy
   - scipy
   - matplotlib
+
+- コードの実行
+  - 実行環境を作成． 
+  - python bridge_1.pyで実行
   
 ## main変数の説明
 - メッシュの細かい粗い(nelx,nelyの値)はトポロジー設計に影響しない．細かいほどなめらかな結果が得られる．
