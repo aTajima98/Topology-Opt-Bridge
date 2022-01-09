@@ -1,6 +1,6 @@
 # Topology-Opt-Bridge
 
-## 作品名
+## 作品
 トポロジー最適化を用いた橋の2Dモデルプログラム．
 ![demo](img/topology.gif)
 
